@@ -1,6 +1,4 @@
-# you can write to stdout for debugging purposes, e.g.
-# print "this is a debug message"
-
+# First code will update more details into. 
 def solution(N):
     # write your code in Python 2.7
     aa = []
