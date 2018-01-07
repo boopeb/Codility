@@ -1,4 +1,4 @@
-# First code will update more details into. 
+# First code will be updated with more details. 
 def solution(N):
     # write your code in Python 2.7
     aa = []
